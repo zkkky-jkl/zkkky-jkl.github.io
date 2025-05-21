@@ -147,6 +147,9 @@ importers:
       '@types/sanitize-html':
         specifier: ^2.16.0
         version: 2.16.0
+      fa6-brands:bilibili:
+        specifier: link:@iconify-json/fa6-brands:bilibili
+        version: link:@iconify-json/fa6-brands:bilibili
       postcss-import:
         specifier: ^16.1.0
         version: 16.1.0(postcss@8.5.3)
